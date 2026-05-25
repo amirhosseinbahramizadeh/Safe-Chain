@@ -1,0 +1,15 @@
+[workspace]
+resolver = "2"
+members = [
+    "crates/secure-shield",
+    "crates/secure-vault",
+]
+
+[workspace.package]
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+authors = ["SafeChain Contributors"]
+repository = "https://github.com/amirhosseinbahramizadeh/safechain"
+homepage = "https://github.com/amirhosseinbahramizadeh/safechain"
+documentation = "https://github.com/amirhosseinbahramizadeh/safechain"

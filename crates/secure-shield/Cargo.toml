@@ -1,0 +1,11 @@
+[package]
+name = "secure-shield"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+description = "Core security primitives for Rust-based blockchain contracts"
+repository = "https://github.com/amirhosseinbahramizadeh/safechain"
+
+[lib]
+name = "secure_shield"
+path = "src/lib.rs"
